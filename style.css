@@ -1,0 +1,16 @@
+.form-group {
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+  display: none;
+}
+
+.invalid {
+  border: 2px solid red;
+}
+
+.valid {
+  border: 2px solid green;
+}
